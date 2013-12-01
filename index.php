@@ -22,7 +22,8 @@
     <div class="container">
 	      <?php 
 echo 'ttttttttt';
-readfile("$DOCUMENT_ROOT/text.txt"); ?>
+echo readfile("$DOCUMENT_ROOT/text.txt"); 
+?>
 	</div>
   </body>
 </html>
