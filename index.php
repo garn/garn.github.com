@@ -20,11 +20,7 @@
     </header>
 
     <div class="container">
-		<h3>鹅</h3>
-		<p>鹅鹅鹅鹅鹅</p>
-		<p>曲项向天歌</p>
-		<p>白毛浮绿水</p>
-		<p>红掌拨清波</p>
+	      <?php readfile("text.txt"); ?>
 	</div>
   </body>
 </html>
