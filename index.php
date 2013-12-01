@@ -20,7 +20,9 @@
     </header>
 
     <div class="container">
-	      <?php readfile("$DOCUMENT_ROOT/text.txt"); ?>
+	      <?php 
+echo 'ttttttttt';
+readfile("$DOCUMENT_ROOT/text.txt"); ?>
 	</div>
   </body>
 </html>
