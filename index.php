@@ -21,9 +21,7 @@
 
     <div class="container">
 	      <?php 
-echo 'ttttttttt';
-echo readfile("$DOCUMENT_ROOT/text.txt"); 
-?>
+var_dump ('hello,world');
 	</div>
   </body>
 </html>
