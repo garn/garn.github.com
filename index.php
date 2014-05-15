@@ -20,8 +20,7 @@
     </header>
 
     <div class="container">
-	      <?php 
-var_dump ('hello,world');
-	</div>
+    <?php  var_dump ('hello,world'); ?>
+    </div>
   </body>
 </html>
